@@ -115,7 +115,7 @@ const Home = () => {
             >
               <Text color="purple.50">$NUMS token address</Text>
               <Text>
-                0x410466536b5ae074f7fea81e5533b8134a9fa08b3dd077dd9db08f64997d113
+                0xdeadbeef
               </Text>
             </VStack>
             <VStack
