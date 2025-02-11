@@ -17,7 +17,7 @@ SLOT_PROJECT="nums-appchain"
 case $COMMAND in
     "create")
         if [ "$SERVICE" == "katana" ]; then
-            slot d create $SLOT_PROJECT katana --dev --messaging $APPCHAIN_DIR/l3.messaging.json --version preview--a13b3de
+            slot d create $SLOT_PROJECT katana --messaging $APPCHAIN_DIR/l3.messaging.json --version preview--59ccea9
         fi
         if [ "$SERVICE" == "torii" ]; then
             JSON_FILE="$SCRIPT_DIR/../manifest_slot.json"
