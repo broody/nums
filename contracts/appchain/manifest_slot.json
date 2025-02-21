@@ -1252,8 +1252,8 @@
   },
   "contracts": [
     {
-      "address": "0x190d6588fdcc481cb212b53121968cb663bea3c5f21449a3d148fface39e24e",
-      "class_hash": "0x3424c5d85c495b641192e13a2b58c07315a8366ce5d23e3af0f9b6523fc4f94",
+      "address": "0x6c07694f8b83794e17381654ac501ceafd84cb2fa171050d1e9a41d1e18a11f",
+      "class_hash": "0x17174eaf607b513036a9bc509a4093f7cda222fd3dbb3ccff4fb8fd4bfb7af8",
       "abi": [
         {
           "type": "impl",
@@ -1473,8 +1473,8 @@
       ]
     },
     {
-      "address": "0x7928a4d15eac5b17c3a79840fc10dfcb9079ee4121cbefce126143800215fc4",
-      "class_hash": "0x7fecd9dfd36c5e0b12102eab58b8947a32ae878aefae7998634d5a2509c3ced",
+      "address": "0x7f1f581f0e67d83be00a333d8be0e2ef0f5c009f87ae9c483485b9aaa9159ee",
+      "class_hash": "0x7b000ed0ebd4c7c5e59d6f34a32c6863e889b29296a7b7f04921a89504eab43",
       "abi": [
         {
           "type": "impl",
@@ -2313,19 +2313,13 @@
   "events": [
     {
       "members": [],
-      "class_hash": "0x12990600f7ff76629388f67db8b846ad09257fbe32efbadb2163008cb8760e6",
+      "class_hash": "0xe15657e97288c5d3914a653c907ae2a77e976bdeb530417734405760ccf7b2",
       "tag": "nums-GameCreated",
       "selector": "0x613f127a45b984440eb97077f485d7718ffff0d065fa4c427774abd166fba2b"
     },
     {
       "members": [],
-      "class_hash": "0x433f1f6c53e67d898843f9326157e30d44432b0c48970c9717b19d3f0fddb11",
-      "tag": "nums-GameEnded",
-      "selector": "0x19e4faf508bde42b5173705ff6c7925ae27d90c56fb3b47ef7d438cbbdc421e"
-    },
-    {
-      "members": [],
-      "class_hash": "0x6bc9a1af04ddfaeb42ec3d368ff655378fdc7aca8af105c9829af3c042c71f0",
+      "class_hash": "0x6a6e47bab207df2557edfa17540d87fda3213f37b35397a3a47d6e4eb32e655",
       "tag": "nums-Inserted",
       "selector": "0x68a8cf4a301f71be018a6ed94f1991773d5804f7520391049d429ba5aff98cd"
     },
